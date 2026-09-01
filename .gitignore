@@ -1,0 +1,18 @@
+# Build e artefatos compilados do .NET
+bin/
+obj/
+
+# Arquivos de usuário e configurações locais do IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Arquivos temporários e de SO
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
